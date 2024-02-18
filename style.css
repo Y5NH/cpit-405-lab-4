@@ -1,0 +1,14 @@
+.p input{
+    width: 450px;
+    height: 30px;
+    }
+    .comment{
+        width: 450px;
+        height: 222px;
+    }
+    .submit{
+        width: 444px;
+        height: 26px;
+        background: black;
+        color: white;
+    }
